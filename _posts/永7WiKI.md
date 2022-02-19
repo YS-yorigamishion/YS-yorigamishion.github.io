@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      永7WiKi
+subtitle:   永7最大的百科全书
+date:       2022-2-19
+author:     YShion
+header-img: img/post-bg-universe.jpg
+catalog:    false
+tags:
+    - 闲谈
+
+---
+年轻人的第一个勉强算得上项目的（大概吧）
+使用酷安寒鸽的Fusion App制作，编写语言为lua语言。
